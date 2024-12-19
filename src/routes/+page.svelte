@@ -1,1 +1,1 @@
-<a href="/test">Go to test</test>
+<a href="/test">Go to test</a>
