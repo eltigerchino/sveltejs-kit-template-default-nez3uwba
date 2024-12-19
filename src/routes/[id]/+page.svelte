@@ -6,4 +6,7 @@
   console.log('store', $pageStore.url.host, $pageStore.params);
 </script>
 
+<p>state: {pageState.url.host}</p>
+<p>store: {$pageStore.url.host}</p>
+
 <a href="/">Go back to home</a>
